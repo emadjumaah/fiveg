@@ -3,3 +3,6 @@
 {"$$indexCreated":{"fieldName":"phone","unique":true,"sparse":false}}
 {"$$indexCreated":{"fieldName":"name","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"isSupplier","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"name","unique":false}}
+{"$$indexCreated":{"fieldName":"isSupplier","unique":false}}
+{"$$indexCreated":{"fieldName":"phone","unique":true}}

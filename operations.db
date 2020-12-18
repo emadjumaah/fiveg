@@ -1,3 +1,6 @@
 {"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"custPhone","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"custName","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"type","unique":false}}
+{"$$indexCreated":{"fieldName":"custName","unique":false}}
+{"$$indexCreated":{"fieldName":"custPhone","unique":false}}
