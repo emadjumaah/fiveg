@@ -1,4 +1,2 @@
 {"$$indexCreated":{"fieldName":"no","unique":true,"sparse":false}}
 {"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
-{"$$indexCreated":{"fieldName":"no","unique":true}}
-{"$$indexCreated":{"fieldName":"name","unique":true}}
