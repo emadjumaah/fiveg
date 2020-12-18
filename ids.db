@@ -1,3 +1,4 @@
 {"_id":"__autoid__brandNo","brandNo":5,"createdAt":{"$$date":1608287279438},"updatedAt":{"$$date":1608287289427}}
 {"_id":"__autoid__catNo","catNo":6,"createdAt":{"$$date":1608287053829},"updatedAt":{"$$date":1608287074782}}
 {"_id":"__autoid__customerNo","customerNo":7,"createdAt":{"$$date":1608269192036},"updatedAt":{"$$date":1608313521995}}
+{"_id":"__autoid__itemNo","itemNo":35,"createdAt":{"$$date":1608328299916},"updatedAt":{"$$date":1608333066792}}
