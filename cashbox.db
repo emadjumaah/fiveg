@@ -1,0 +1,4 @@
+{"$$indexCreated":{"fieldName":"type","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"opType","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"opNo","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"custPhone","unique":false,"sparse":false}}
