@@ -1,2 +1,8 @@
+{"_id":"1uMCGIDImd3EdKHH","no":4,"name":"monitors","createdAt":{"$$date":1608287067006},"updatedAt":{"$$date":1608287067006}}
+{"_id":"2UdWugkRgduRWebR","no":3,"name":"keyboard","createdAt":{"$$date":1608287062278},"updatedAt":{"$$date":1608287062278}}
+{"_id":"2ms54LLj8N1MIP9H","no":6,"name":"laptops","createdAt":{"$$date":1608287074784},"updatedAt":{"$$date":1608287074784}}
+{"_id":"2pVGm34K9zNpAbYR","no":2,"name":"phones","createdAt":{"$$date":1608287057095},"updatedAt":{"$$date":1608287057095}}
+{"_id":"DlZPwspgbSDtqCWX","no":1,"name":"cars","createdAt":{"$$date":1608287053834},"updatedAt":{"$$date":1608287053834}}
+{"_id":"r3uETLbyjH7FlH31","no":5,"name":"mouses","createdAt":{"$$date":1608287070878},"updatedAt":{"$$date":1608287070878}}
 {"$$indexCreated":{"fieldName":"no","unique":true,"sparse":false}}
 {"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
