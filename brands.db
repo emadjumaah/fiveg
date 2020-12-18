@@ -1,2 +1,7 @@
+{"_id":"Q2Pwj5uE4uNtazWs","no":1,"name":"samsung","createdAt":{"$$date":1608287279445},"updatedAt":{"$$date":1608287279445}}
+{"_id":"aPAaVkk1HRkGijd2","no":4,"name":"yahoo","createdAt":{"$$date":1608287285877},"updatedAt":{"$$date":1608287285877}}
+{"_id":"cEWhEOsCxl2brkG0","no":3,"name":"google","createdAt":{"$$date":1608287283510},"updatedAt":{"$$date":1608287283510}}
+{"_id":"kusPgiKzjBgJoXGM","no":2,"name":"apple","createdAt":{"$$date":1608287280992},"updatedAt":{"$$date":1608287280992}}
+{"_id":"x9RmgTdXrEYxgSWr","no":5,"name":"oppo","createdAt":{"$$date":1608287289431},"updatedAt":{"$$date":1608287289431}}
 {"$$indexCreated":{"fieldName":"no","unique":true,"sparse":false}}
 {"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
