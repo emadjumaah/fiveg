@@ -1,3 +1,7 @@
+{"_id":"GlWelMKuuh5tLWWi","no":1,"name":"emad jumaah","phone":"33882806","email":"emadjumaah@gmail.com","createdAt":{"$$date":1608269192042},"updatedAt":{"$$date":1608269192042}}
 {"$$indexCreated":{"fieldName":"phone","unique":true,"sparse":false}}
 {"$$indexCreated":{"fieldName":"name","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"isSupplier","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"name","unique":false}}
+{"$$indexCreated":{"fieldName":"phone","unique":true}}
+{"$$indexCreated":{"fieldName":"isSupplier","unique":false}}

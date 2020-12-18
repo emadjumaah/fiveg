@@ -2,3 +2,7 @@
 {"$$indexCreated":{"fieldName":"opType","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"opNo","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"custPhone","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"type","unique":false}}
+{"$$indexCreated":{"fieldName":"opType","unique":false}}
+{"$$indexCreated":{"fieldName":"opNo","unique":false}}
+{"$$indexCreated":{"fieldName":"custPhone","unique":false}}

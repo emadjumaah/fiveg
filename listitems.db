@@ -1,3 +1,6 @@
 {"$$indexCreated":{"fieldName":"itemId","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"opType","unique":false,"sparse":false}}
 {"$$indexCreated":{"fieldName":"opNo","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"itemId","unique":false}}
+{"$$indexCreated":{"fieldName":"opType","unique":false}}
+{"$$indexCreated":{"fieldName":"opNo","unique":false}}
